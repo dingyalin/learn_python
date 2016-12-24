@@ -5,10 +5,6 @@ Created on 2016年12月23日
 @author: dWX347607
 '''
 
-
-
-
-
 from gevent import monkey; monkey.patch_all()
 import gevent
 import urllib2
